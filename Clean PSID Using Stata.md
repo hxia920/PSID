@@ -45,13 +45,11 @@ For **family-level** data, the [PSID official user guide](https://psidonline.isr
 #### 1.2.2 Identifiers
 
 For identifiers, PSID provides excellent videos. Everything about identifiers will be clear after watching these videos. Related videos can be found at [PSID Official YouTube Channel](https://www.youtube.com/channel/UCRKjqCqPGtOZommz9SyaCyQ) and can be watched below.
-
+```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sYMr6YYhK_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+```
 To conclude, PSID has following identifiers:
-
-		- 1968 Interview Number + Person Number to identify a specific person in all waves
-
+ - 1968 Interview Number + Person Number to identify a specific person in all waves
  - Year-specific Family Interview Number to identify a specific family in a specific year
  - Year-specific Family Interview Number +  Year-specific Sequence Number to identify a specific person in a specific year
 
