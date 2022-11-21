@@ -1,0 +1,5 @@
+# Clean PSID Using Stata
+
+This is my note on cleaning the Panel Study of Income Dynamics (PSID) using Stata when I worked for [WiNDC, UW-Madison](https://windc.wisc.edu/) during summer, 2022. PSID is a powerful dataset but is hard to clean if you want to do a intergenerational analysis. During my learning process, I found a paper by [Hoynes et al. (2016)](https://www.aeaweb.org/articles?id=10.1257/aer.20130375). They cleaned PSID using Stata and kindly provided [replication code](https://www.openicpsr.org/openicpsr/project/112914/version/V1/view) for the cleaning and analysis process. This is by far the most efficient way I've seen cleaning PSID by Stata. Thus, I learned from their code, made marginal improvement, and wrote down this notes on how their code works. Initially this note is prepared for cases I forgot what's going on in the cleaning process, and I'd like to share it on GitHub. Hope this note can save your search time and help you learn PSID efficiently. Feel free to contact me if there are any problems in this note. 
+
+Please see 'Clean PSID Using Stata.md' for details.
